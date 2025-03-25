@@ -1,84 +1,123 @@
-# Moon Child Studio Policies  
 
-## Commitment to Excellence  
-At Moon Child Studio, we are dedicated to providing a seamless and professional experience for all clients. Our policies are designed to ensure clarity, fairness, and the highest level of service. Please review the following terms before booking your session.  
+# General Terms and Conditions of Moon Child Studio  
 
----
-
-## Booking & Payments  
-
-### Passport & ID Photo Bookings  
-- Payment for passport and ID photo sessions is **due in full at the time of booking**.  
-- **No refunds will be issued for cancellations or no-shows.**  
-- Clients may **reschedule one time only** up to **24 hours before the session**. Payment will be credited toward the new date.  
-- If a second reschedule is required, the session will be **automatically cancelled without refund**, and a new time slot must be purchased.  
-- **No-shows are automatically cancelled without refund.** This policy is necessary to ensure fairness to other clients and to compensate for the time and resources reserved for the session. As a small business, our schedule must be respected to maintain quality service for all clients.  
-
-### Portrait, Fine Art & Event Bookings  
-- A **50% non-refundable retainer** is required to secure your session date.  
-- The remaining balance must be paid before or on the session day.  
-- **Online bookings operate on a first-come, first-served basis.** A booking is not confirmed until the deposit or reservation fee is paid.  
-- **Unpaid deposits or reservation fees will result in automatic session cancellation after 24 hours.**  
-- Please follow all booking instructions carefully. **Incomplete bookings will not be added to our calendar, and the date will remain available for other clients.**  
-- **One reschedule is permitted per booking** for portrait, fine art, or event sessions. Rescheduling must be requested at least **48 hours before the session**.  
-- Wedding and engagement sessions are subject to separate rescheduling terms. Please refer to the full wedding and engagement policies here: *[Insert Link]*  
-
-### Gift Certificates  
-- **Gift certificates are due in full at the time of purchase**.  
-- They are **non-refundable**, have no cash value, and are **not tied to any specific date** until the recipient uses the certificate to book a spot through our online booking page.  
-- When booking a session using a gift certificate, select **“gift certificate”** as the payment option.  
-- **Contest winnings** cannot be exchanged for cash, transferred, or combined with other offers.  
+## Table of Contents  
+1. [Introduction](#introduction)  
+2. [General Studio Policies](#general-studio-policies)  
+3. [Client Conduct and Respect Policies](#client-conduct-and-respect-policies)  
+4. [Third-Party Interference and Slander Protection](#third-party-interference-and-slander-protection)  
+5. [Booking and Payment Policies](#booking-and-payment-policies)  
+6. [Cancellation and Rescheduling Policies](#cancellation-and-rescheduling-policies)  
+7. [Copyright and Usage Rights](#copyright-and-usage-rights)  
+8. [Conditional Contest Terms](#conditional-contest-terms)  
+9. [Specific Shoot Terms and Conditions](#specific-shoot-terms-and-conditions)  
+10. [Legal Consequences for Breach of Contract](#legal-consequences-for-breach-of-contract)  
+11. [Cease and Desist Orders](#cease-and-desist-orders)  
 
 ---
 
-## Pricing Policy  
-Pricing is subject to change based on business costs, market adjustments, and service updates. Rates at the time of booking will be honored for confirmed reservations with a deposit. Quotes or inquiries do not guarantee locked-in rates until a booking is secured.  
+## Introduction  
+These General Terms and Conditions apply to all services and products provided by Moon Child Studio. Any client booking a session or purchasing products agrees to abide by these terms. Additional terms may apply to specific services and will be clearly stated in the relevant documentation. The specific terms always supplement and exceed the general terms.  
 
 ---
 
-## Cancellations & Rescheduling  
-- **Cancellations made within 48 hours of the session are non-refundable.**  
-- Rescheduling requests must be made with reasonable notice and will be accommodated based on availability.  
-- In the case of unforeseen circumstances (e.g., illness, severe weather), rescheduling will be coordinated at no additional cost.  
+## General Studio Policies  
+- All bookings are subject to availability and confirmation by Moon Child Studio.
+- Clients are responsible for providing accurate and complete information when booking.
+- Payment terms and methods are clearly stated in individual contracts and invoices.
+- Booking confirmations will be sent via email or other preferred communication channels.
+- All additional terms applicable to specific shoot types are supplementary to these general terms.
 
 ---
 
-## Photo Usage & Copyright  
-- Moon Child Studio retains the copyright to all images.  
-- Clients receive a **personal-use license** with their purchased images.  
-- Any **commercial use or third-party editing** of images requires prior written permission.  
+## Client Conduct and Respect Policies  
+- All clients are expected to communicate respectfully and professionally at all times.
+- Harassment, abuse, or slander towards Moon Child Studio or its representatives will not be tolerated.
+- Third-party interference, including but not limited to family members or acquaintances making demands or public statements on behalf of the client, is strictly prohibited.
+- Any public or private statements, posts, or actions that harm the reputation of Moon Child Studio will result in legal action, including claims for damages.
+- If any third party interferes with the clientâs contractual obligations or publicly slanders Moon Child Studio, the client may be held liable for breach of contract and defamation.
+- In cases of inappropriate conduct or interference, the studio reserves the right to terminate the agreement immediately.  
+- Any breach of conduct or inappropriate behavior will result in the immediate requirement to pay the full contract amount, without the studio or photographer being obligated to fulfill the remainder of the service. This includes but is not limited to harassment, defamation, or unauthorized third-party involvement.
 
 ---
 
-## Digital & Print Products  
-- Digital images are delivered in **high-resolution format**.  
-- Print products are processed through **professional labs** for quality assurance.  
-- Custom orders may require **additional processing time**.  
+## Third-Party Interference and Slander Protection  
+- Moon Child Studio does not recognize any third party as a legal representative of the client unless explicitly stated in the contract.
+- Any attempt by a third party to influence or disrupt the contractual obligations between Moon Child Studio and the client is strictly prohibited.
+- Slanderous or defamatory remarks made publicly or privately that harm the business reputation of Moon Child Studio will result in legal action.
+- Clients are responsible for ensuring that no third party acts on their behalf without written authorization.
+- Violation of these terms may result in contract termination, with all due payments and damages owed immediately.
 
 ---
 
-## Liability  
-While every effort is made to deliver high-quality images and services, Moon Child Studio is not responsible for factors beyond our control, including but not limited to weather conditions, venue restrictions, or client cooperation.  
+## Booking and Payment Policies  
+- Full payment terms are outlined in individual contracts.
+- A non-refundable deposit is required to secure the booking.
+- The remaining balance must be paid as per the terms specified in the contract.
+- Failure to meet payment deadlines will result in penalties and possible contract termination.
+- A 5% interest fee per month will be added to outstanding balances beyond the initial due date.
+- Registered letters will be sent after 30 and 90 days of non-payment, with escalating legal consequences.
 
 ---
 
-## Satisfaction Guarantee  
-If you have any concerns regarding your final images, please reach out within **7 days of delivery** to discuss available resolution options.  
+## Cancellation and Rescheduling Policies  
+- Cancellations require a minimum of 90 daysâ written notice before the scheduled shoot date.
+- Failure to provide proper notice will result in the full balance being due.
+- Rescheduling requests must be made at least 30 days prior to the session.
+- In case of emergencies or unforeseen circumstances, Moon Child Studio will make reasonable accommodations.
+- Refunds are only applicable if explicitly stated in the individual contract.
+- Illness, family emergencies, or death of the photographer (as the sole operator) are covered under Force Majeure.
+
+### Force Majeure  
+- Moon Child Studio shall not be held liable for cancellations or delays resulting from unforeseen events, including but not limited to illness, family emergencies, natural disasters, or any other circumstance beyond reasonable control.
+- In such cases, clients will be notified as soon as possible, and reasonable efforts will be made to reschedule or refund as appropriate.
+- As the sole operator, Martine Stella Bedard reserves the right to prioritize personal emergencies without facing contractual penalties.
 
 ---
 
-## Client Responsibilities  
-Clients are responsible for **arriving on time**, following preparation guidelines, and ensuring all participants are ready for the session.  
+## Copyright and Usage Rights
+## Intellectual Property Clause  
+- All creative works, including but not limited to photographs, digital files, graphic designs, written content, audio recordings, and videos, produced by Moon Child Studio remain the sole intellectual property of Martine Stella Bedard, operating as Moon Child Studio.  
+- No person or entity, including clients, collaborators, or third parties, may claim ownership, reproduce, distribute, alter, or otherwise use any creative work produced by Moon Child Studio without prior written consent from the copyright holder.  
+- Any unauthorized use, reproduction, or distribution of Moon Child Studioâs creative works will result in immediate legal action, including but not limited to cease and desist orders, claims for damages, and copyright infringement suits.  
+- Any collaborative projects, including but not limited to community initiatives, sponsored events, or commissioned works, must include clear agreements outlining usage rights and credit attributions, signed by all parties involved.  
+- Moon Child Studio reserves the right to revoke usage permissions if it is determined that the creative works are being misused, exploited, or falsely attributed.  
+- Any entity or individual attempting to claim credit or ownership over Moon Child Studioâs work, either directly or indirectly, will be held liable for intellectual property theft, with legal consequences including but not limited to compensation for damages, legal fees, and public retraction requirements.  
+- Any disputes regarding intellectual property rights must be addressed through legal mediation or court proceedings within Ontario, Canada.  
+  
+- Moon Child Studio retains full copyright ownership of all images taken.
+- Clients are granted a limited license for personal use unless explicitly stated otherwise.
+- Unauthorized use, distribution, or reproduction of images without prior written consent is strictly prohibited.
+- Print release and image use statements are irrevocable unless legally challenged and overturned through a valid **Cease and Desist Order** served to the studio.
+- Breach of these terms may result in immediate revocation of usage rights and legal action.
 
 ---
 
-## Governing Law  
-These terms and policies are governed by the laws of **Ontario, Canada**.  
+## Conditional Contest Terms  
+- Contests hosted by Moon Child Studio may include specific conditions for eligibility and prize redemption.
+- Clients must meet all stated requirements to qualify for contest rewards.
+- Prizes are non-transferable and cannot be redeemed for cash.
+- Any breach of contract or violation of contest rules may result in disqualification and forfeiture of the prize.
 
---- 
+---
 
-# Moon Child Studio Client Conduct Policy  
+## Specific Shoot Terms and Conditions  
+- Certain types of shoots (e.g., weddings, engagements, boudoir) have specific additional terms.
+- These additional terms are outlined in the booking agreement and are supplementary to the general terms.
+- The additional terms will always exceed the general terms where applicable, to ensure clarity and specificity for unique services.
 
-Clients are expected to maintain respectful and professional behavior during all sessions. Any inappropriate, disruptive, or harmful conduct may result in session termination without a refund. Moon Child Studio reserves the right to refuse service or cancel a session at any time if client behavior compromises the safety, comfort, or integrity of the shoot.  
+---
 
-If you have any questions regarding these policies, please feel free to contact us. Thank you for choosing Moon Child Studio for your photography needs!
+## Legal Consequences for Breach of Contract  
+- Any breach of contract by the client will result in the immediate requirement to pay the full amount due, including accrued interest, legal fees, and additional administrative charges.
+- The photographer or studio will no longer be obligated to fulfill the remainder of the contracted services upon breach.  
+- Breach of exclusivity by hiring another photographer before the contract is properly terminated will result in immediate invoicing for the full contract amount.  
+- Any defamatory or slanderous actions resulting in reputational damage will be subject to legal claims for damages.  
+- Moon Child Studio reserves the right to pursue legal action to recover costs and protect its business reputation.  
+
+---
+
+## Cease and Desist Orders  
+- A **Cease and Desist Order** must be legally served to Moon Child Studio to request the revocation of image usage or print release rights.
+- Ignoring a Cease and Desist Order may result in further legal action, including court-mandated fines, damages, and enforcement of copyright protections.
+- If the client continues to use images after a Cease and Desist Order has been served, Moon Child Studio will seek damages, legal fees, and enforcement through the appropriate legal channels.
