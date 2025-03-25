@@ -75,12 +75,7 @@ Clients are responsible for **arriving on time**, following preparation guidelin
 ## Governing Law  
 These terms and policies are governed by the laws of **Ontario, Canada**.  
 
----
-
-## Amendments  
-Moon Child Studio periodically reviews and updates policies to reflect best practices and service improvements. Any updates will be reflected on our website and booking agreements.  
-
----
+--- 
 
 # Moon Child Studio Client Conduct Policy  
 
